@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+ecb_sifreli.png
+ctr_sifreli.png
+karsilastirma.png
